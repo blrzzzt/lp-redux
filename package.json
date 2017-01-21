@@ -4,7 +4,8 @@
   "description": "a redux of lp customs",
   "main": "index.js",
   "scripts": {
-    "test": "test.js"
+    "bw-css": "./bin/bw-css",
+    "binit": "chmod +x ./bin/*"
   },
   "repository": "git+https://github.com/blrzzzt/lp-redux.git",
   "author": "blrzzzt",
@@ -15,5 +16,8 @@
   "homepage": "https://github.com/blrzzzt/lp-redux#readme",
   "dependencies": {
     "bourbon-neat": "^1.8.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.3.0"
   }
 }
