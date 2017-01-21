@@ -6,14 +6,14 @@
   "scripts": {
     "test": "test.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/blrzzzt/lp-redux.git"
-  },
+  "repository": "git+https://github.com/blrzzzt/lp-redux.git",
   "author": "blrzzzt",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/blrzzzt/lp-redux/issues"
   },
-  "homepage": "https://github.com/blrzzzt/lp-redux#readme"
+  "homepage": "https://github.com/blrzzzt/lp-redux#readme",
+  "dependencies": {
+    "bourbon-neat": "^1.8.0"
+  }
 }
