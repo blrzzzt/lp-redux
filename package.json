@@ -1,0 +1,19 @@
+{
+  "name": "lp-redux",
+  "version": "0.0.1",
+  "description": "a redux of lp customs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blrzzzt/lp-redux.git"
+  },
+  "author": "blrzzzt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blrzzzt/lp-redux/issues"
+  },
+  "homepage": "https://github.com/blrzzzt/lp-redux#readme"
+}
